@@ -1,0 +1,64 @@
+*{
+    background:none;
+    color: rgb(0, 145, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.txt{
+    color: black;
+}
+.back{
+    position: fixed;
+    width: 100%;
+    margin: -20px;
+}
+.container{
+    width: 40px;
+    z-index: 1;
+    position: absolute;
+}
+.card{
+    background: none;
+    border: 5px solid #00fff7;
+    width: 350px;
+    height: 600px;
+    border-radius: 10px;
+    margin-left:auto;
+    z-index: 1;
+    
+}
+.logo-photo{
+    height: 130px;
+    width: 130px;
+    margin-left: 120px;
+    margin-top: 20px;
+    border-radius: 100%;
+}
+.w-text{
+    color: rgb(43, 255, 0);
+    text-align: center;
+    height :10px;
+}
+.typein{
+    margin: 50px;
+    width: 200px;
+    height: 10px;
+    margin-left: 80px;
+}
+.text{
+    font-weight: 100px;
+    color: black;
+}
+.insert{
+    border-radius: 5px;
+    width:200px ;
+    background: rgb(255, 255, 255);
+}
+.button{
+    color: rgb(0, 255, 229);
+    background: none;
+    border: 5px solid rgb(0, 255, 110);
+    border-radius: 20px;
+    margin-left: 130px;
+
+}
